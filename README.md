@@ -1,7 +1,7 @@
 # spring-modules
 Spring Modules Example
 
-1)**Demo Spring Boot App With Docker**
+**1)Demo Spring Boot App With Docker**
 
   The required docker codes to run are listed below;
 ```
