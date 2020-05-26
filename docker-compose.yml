@@ -1,0 +1,11 @@
+
+
+version: '3'
+
+services:
+  docker-spring-boot:
+    image: "docker-spring-boot"
+    volumes:
+      - /data/spring-boot
+    ports:
+      - 8080:8080
