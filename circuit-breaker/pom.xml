@@ -12,6 +12,7 @@
 	<packaging>jar</packaging>
 	<description>Implementing Circuit Breaker Pattern using Spring Cloud Hystrix</description>
 
+
 	<properties>
 		<java.version>14</java.version>
 		<spring-cloud.version>Hoxton.SR4</spring-cloud.version>
