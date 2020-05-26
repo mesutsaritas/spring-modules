@@ -1,4 +1,4 @@
-***Spring Modules Example***
+***Spring Modules***
 
 **1)Demo Spring Boot App With Docker**
 
@@ -9,8 +9,8 @@
   ```
   
   **2)Implementing Circuit Breaker Pattern using Spring Cloud Hystrix**
-  ```
+  
   The stream is accessible at http://localhost:8080/actuator/hystrix.stream
-```
+
   
   
